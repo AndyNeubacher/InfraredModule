@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "InfraredModule", "InfraredModule\InfraredModule.cproj", "{93EDB08B-90E4-42CF-9E06-B03792D889B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93EDB08B-90E4-42CF-9E06-B03792D889B2}.Debug|AVR.ActiveCfg = Debug|AVR
+		{93EDB08B-90E4-42CF-9E06-B03792D889B2}.Debug|AVR.Build.0 = Debug|AVR
+		{93EDB08B-90E4-42CF-9E06-B03792D889B2}.Release|AVR.ActiveCfg = Release|AVR
+		{93EDB08B-90E4-42CF-9E06-B03792D889B2}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
